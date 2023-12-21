@@ -6,3 +6,5 @@ Here, I am going to focus on 2 main questions:
 2 - How the taxonomic composition (i.e., set of species) change between habitats?
 
 I use three datasets to answer the questions.
+
+* You just need to download de HTML file and double-click it.
